@@ -6,7 +6,7 @@ import CallToAction from "./components/CallToAction";
 import AboutSection from "./components/AboutSection";
 import ProfileCalculatorSection from "./components/ProfileCalculatorSection";
 
-//stying
+//stying goes here
 import "./App.css";
 
 function App() {
